@@ -9,10 +9,11 @@ body {
 
 header {
     background-color: #00000038;
-    padding: 1em;
+    padding: 1px;
     text-align: center;
     border-radius: 0px 0px 0 0;
     box-shadow: 0 0 60px rgba(1, 1, 1, 0.769);
+    height: 80px;
     margin-bottom: 45px;
 }
 
@@ -43,7 +44,7 @@ nav li span::after {
     transform: translateX(-50%);
     width: 130px; 
     height: 70px; 
-    background-color: #202020d2;
+    background-color: #16161675;
     opacity: 1;
     border-radius: 40px;
     box-shadow: 0 0 30px rgba(255, 255, 255, 0.483);
