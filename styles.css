@@ -54,6 +54,10 @@ img[alt="Image1"] {
     max-width: 1000px;
     height: auto;
 }
+img[alt="Image2"] {
+    max-width: 1300px;
+    height: auto;
+}
 img {
   border-radius: 10px;
 }
