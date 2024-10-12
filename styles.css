@@ -48,9 +48,9 @@ section {
 }
 
 h1, h2 {
-    color: #fff;
+    /* styles for h1 and h2 elements */
 }
-img[alt="Image1"] {
-    max-width: 1000px;
-    height: auto;
+
+img[src$=".jpg"] {
+    border-radius: 10px;
 }
