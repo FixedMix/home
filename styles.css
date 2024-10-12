@@ -3,16 +3,16 @@ body {
     font-family: futura, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #0a0a0a;
+    background-color: #000000db;
     color: #fff;
 }
 
 header {
-    background-color: #2a2a2a;
+    background-color: #00000038;
     padding: 1em;
     text-align: center;
     border-radius: 0px 0px 0 0;
-    box-shadow: 0 0 60px rgba(255, 255, 255, 0.396);
+    box-shadow: 0 0 60px rgba(1, 1, 1, 0.769);
     margin-bottom: 45px;
 }
 
@@ -43,10 +43,10 @@ nav li span::after {
     transform: translateX(-50%);
     width: 130px; 
     height: 70px; 
-    background-color: #202020;
+    background-color: #202020d2;
     opacity: 1;
     border-radius: 40px;
-    box-shadow: 0 0 100px rgba(255, 255, 255, 0.597);
+    box-shadow: 0 0 30px rgba(255, 255, 255, 0.483);
     z-index: -1;
 }
 
@@ -70,11 +70,11 @@ main {
 }
 
 section {
-    background-color: #2a2a2a;
+    background-color: #212121;
     padding: 1em;
     margin-bottom: 20px;
     border-radius: 40px;
-    box-shadow: 0 0 90px rgba(255, 255, 255, 0.597);
+    box-shadow: 0 0 500px rgba(255, 255, 255, 0.424);
 }
 
 h1, h2 {
