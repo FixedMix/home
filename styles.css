@@ -50,10 +50,14 @@ section {
 h1, h2 {
     color: #fff;
 }
-img[alt="Image1";"Image2"] {
+img[alt="Image1"] {
     max-width: 1000px;
     height: auto;
 }
 img {
   border-radius: 10px;
+}
+img[alt="Image2"] {
+    max-width: 1000px;
+    height: auto;
 }
