@@ -54,3 +54,7 @@ h1, h2 {
 img[src$=".jpg"] {
     border-radius: 10px;
 }
+img[alt="Image1"] {
+    max-width: 1000px;
+    height: auto;
+}
