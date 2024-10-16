@@ -49,6 +49,7 @@ nav li span::after {
     border-radius: 40px;
     box-shadow: 0 0 30px rgba(255, 255, 255, 0.483);
     z-index: -1;
+    width: 80vw; /* phone width bug fix? */
 }
 
 nav li:hover::after {
@@ -91,4 +92,6 @@ img[alt="Image2"] {
 }
 img {
   border-radius: 10px;
+  max-width: 90vw; /* phone width fix?
+  */
 }
