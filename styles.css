@@ -51,7 +51,7 @@ nav li span::after {
     border-radius: 40px;
     box-shadow: 0 0 30px rgba(255, 255, 255, 0.483);
     z-index: -1;
-    /*width: 10vw;  phone width bug fix? */
+    width: 5em;  /*phone width bug fix? */
 }
 
 nav li:hover::after {
