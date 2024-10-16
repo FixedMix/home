@@ -49,7 +49,7 @@ nav li span::after {
     border-radius: 40px;
     box-shadow: 0 0 30px rgba(255, 255, 255, 0.483);
     z-index: -1;
-    width: 80vw; /* phone width bug fix? */
+    width: 10vw; /* phone width bug fix? */
 }
 
 nav li:hover::after {
@@ -77,6 +77,9 @@ section {
     margin-bottom: 20px;
     border-radius: 40px;
     box-shadow: 0 0 500px rgba(255, 255, 255, 0.424);
+    width: 80%;
+  margin: 0 auto;
+
 }
 
 h1, h2 {
