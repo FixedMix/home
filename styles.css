@@ -95,6 +95,6 @@ img[alt="Image2"] {
 }
 img {
   border-radius: 10px;
-  max-width: 10vw; /* phone width fix?
+  max-width: 5vw; /* phone width fix?
   */
 }
