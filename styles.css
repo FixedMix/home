@@ -78,7 +78,7 @@ section {
     border-radius: 40px;
     box-shadow: 0 0 500px rgba(255, 255, 255, 0.424);
     width: 80%;
-  margin: 0 auto;
+  margin-bottom: 10px auto;
 
 }
 
@@ -86,15 +86,14 @@ h1, h2 {
     color: #fff;
 }
 img[alt="Image1"] {
-    max-width: 1000px;
+    max-width: 75vw;
     height: auto;
 }
 img[alt="Image2"] {
-    max-width: 1000px;
+    max-width: 75vw;
     height: auto;
 }
 img {
   border-radius: 10px;
-  max-width: 5vw; /* phone width fix?
-  */
+  max-width: 5vw; /* phone width fix? */
 }
