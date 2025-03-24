@@ -82,6 +82,9 @@ section {
     width: 90%;
   margin-bottom: 10px auto;
   @media (max-width: 600px) {
+      nav li span::after {
+          max-width: 5vw;
+          }
     section {
       width: 100%;
       margin: 0;
@@ -90,7 +93,7 @@ section {
   }
     @media (max-width: 600px) {
         section {
-          width: 98%;
+          width: 100%;
           margin: 5px;
           /* phone width */
         }
