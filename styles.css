@@ -97,6 +97,9 @@ section {
           margin: 5px;
           /* phone width */
         }
+         body {
+    transform: scale(0.8);
+  }
       }
 }
 p {
