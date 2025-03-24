@@ -82,8 +82,6 @@ section {
     width: 90%;
   margin-bottom: 10px auto;
   @media (max-width: 600px) {
-    nav li {
-      font-size: 18px;
     section {
       width: 100%;
       margin: 0;
@@ -92,7 +90,7 @@ section {
   }
     @media (max-width: 600px) {
         section {
-          width: 100%;
+          width: 98%;
           margin: 5px;
           /* phone width */
         }
@@ -114,7 +112,6 @@ img[alt="Image2"] {
     height: auto;
 }
 img {
-    max-width: 30vw;
   border-radius: 10px;
   max-width: 5vw; /* phone width fix? */
 }
