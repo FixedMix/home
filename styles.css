@@ -112,6 +112,8 @@ img[alt="Image2"] {
     height: auto;
 }
 img {
-  border-radius: 10px;
-  max-width: 4vw; /* phone width fix? */
-}
+   border-radius: 40px;
+     z-index: -1;
+     width: 5em;  /*phone width bug fix? */
+ }
+ nav li:hover::after {
